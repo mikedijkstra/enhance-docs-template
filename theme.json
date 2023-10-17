@@ -1,0 +1,37 @@
+{
+  "typeScale": {
+    "steps": 8,
+    "baseMin": 16,
+    "baseMax": 18,
+    "viewportMin": 320,
+    "viewportMax": 1500,
+    "scaleMin": 1.2,
+    "scaleMax": 1.25
+  },
+  "spaceScale": {
+    "steps": 8,
+    "baseMin": 16,
+    "baseMax": 18,
+    "viewportMin": 320,
+    "viewportMax": 1500,
+    "scaleMin": 1.2,
+    "scaleMax": 1.25
+  },
+  "properties": {
+    "align-heading": "start",
+    "color-dark": "hsl(200deg 5% 15%)",
+    "color-light": "hsl(24deg 10% 97.5%)",
+    "color-muted": "var(--grey-600)",
+    "color-primary": "#AD6EF9",
+    "color-secondary": "#F7F0FE",
+    "color-secondary--onDark": "#113A62",
+    "font-body": "system-ui, sans-serif",
+    "font-heading": "system-ui, sans-serif",
+    "docs-nav-width": "16rem",
+    "nav-height": "4rem",
+    "editorial-width": "max(320px - var(--space-0), 87.5vw)"
+  },
+  "queries": {
+    "lg": "48em"
+  }
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Getting Started",
+    "description": "How to get started with this docs template.",
+    "position": 0,
+    "posts": [
+      {
+        "title": "Introduction",
+        "position": 0,
+        "href": "/docs/",
+        "frontmatter": {
+          "title": "Introduction",
+          "category": "Getting Started",
+          "position": 0,
+          "links": [
+            {
+              "Why enhance?": "https://enhance.dev/why-enhance"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Quick Start",
+        "position": 1,
+        "href": "/docs/quick-start",
+        "frontmatter": {
+          "title": "Quick Start",
+          "category": "Getting Started",
+          "position": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Structure",
+    "position": 1,
+    "posts": [
+      {
+        "title": "Categories",
+        "position": 0,
+        "href": "/docs/categories",
+        "frontmatter": {
+          "title": "Categories",
+          "category": "Structure",
+          "position": 0,
+          "links": [
+            {
+              "gray-matter": "https://github.com/jonschlinkert/gray-matter"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Posts",
+        "position": 1,
+        "href": "/docs/posts",
+        "frontmatter": {
+          "title": "Posts",
+          "category": "Structure",
+          "position": 1
+        }
+      }
+    ]
+  }
+]
